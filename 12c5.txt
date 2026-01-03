@@ -7,4 +7,14 @@
     <h1>Xin chào!</h1>
     <p>Đây là trang web đầu tiên của mình.</p>
 </body>
+    <h2>Giới thiệu lớp 12C5</h2>
+    <p>
+Lớp 12C5 là một tập thể đoàn kết, năng động và đầy nhiệt huyết của trường. 
+Trong suốt quá trình học tập và rèn luyện, tập thể lớp luôn nỗ lực phấn đấu 
+để đạt kết quả tốt trong học tập cũng như tích cực tham gia các hoạt động 
+phong trào của nhà trường. Mỗi thành viên trong lớp đều mang một cá tính riêng, 
+nhưng cùng chung mục tiêu học tập, cùng nhau cố gắng để hoàn thành chặng đường 
+cuối cùng của tuổi học trò với nhiều kỷ niệm đẹp và đáng nhớ.
+</p>
 </html>
+
